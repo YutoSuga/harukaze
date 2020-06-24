@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+body{
+    background-image: url(./28700501.37F3DD3EDCF8D188B151E9FE4E115115.19050415.jpg);
+}
+header{
+    text-align: center;
+}
+li{
+    float: left;
+    margin: 0px 10px;
+    width: auto;
+    background-color: aqua;
+   
+}
+ul{
+    list-style: none;
+    margin-left: 400px;
+    float: left;
+    
+}
+.tab{
+    text-align: center;
+}
